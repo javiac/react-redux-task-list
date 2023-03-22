@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Task list app using Redux toolkit
+The app uses redux toolkit and react-redux libraries to store tasks and elapsed times. Example:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Example](public/screenshot.png)
 
 ## Available Scripts
 
